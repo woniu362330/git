@@ -11,3 +11,4 @@ test git fetch origin branch
 test git pull
 test git pull too
 test git pull three
+test git pull four
