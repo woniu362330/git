@@ -6,3 +6,4 @@ Creating a new branch is quick.
 doing...
 test git fetch
 test git pull three
+test git pull four
